@@ -9,9 +9,26 @@
   text-align: center;
   width: 75%;
 }
+h1.introheader {
+    font-size: 48px;
+}
+h3 {
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
+}
 
-core.img{
-  float: right;
+p {
+  font-size: 12px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+li {
+  font-size: 12px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#Lucas {
+  width: 80%;
 }
 
 @media screen and (max-width: 768px) {
