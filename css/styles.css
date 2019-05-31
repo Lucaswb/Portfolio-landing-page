@@ -1,9 +1,4 @@
 /* for computers and large tablets */
-@media screen and (max-width: 768px) {
-  body{
-    background-color: #79afff
-
-}
 .introheader{
   color: darkblue;
   font-family: "Times New Roman", Times, serif;
@@ -13,4 +8,17 @@
   background-color: #ccccff;
   text-align: center;
   width: 75%;
+}
+
+
+@media screen and (max-width: 768px) {
+  body{
+    background-color: #79afff
+  }
+}
+
+@media screen and (min-width: 768px) {
+  body{
+    background-color: #dddddd
+  }
 }
