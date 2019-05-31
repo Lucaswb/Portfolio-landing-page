@@ -1,4 +1,4 @@
-/* for computers and large tablets */
+
 .introheader{
   color: white;
   font-family: "Times New Roman", Times, serif;
@@ -17,8 +17,13 @@
   background-color: #eeeeee;
   text-align: left;
   width: 100%;
+  margin-left: 30px;
 
 }
+.customborder h3 {
+  font-weight: bold
+}
+
 
 h1 {
     font-size: 40px;
