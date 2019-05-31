@@ -41,6 +41,6 @@ Github
 
 ### License
 
-Copyright (c) 2019 Lucas Blasdel
+Copyright (c) 2019 Lucas B.
 
 This software is licensed under the MIT license.
