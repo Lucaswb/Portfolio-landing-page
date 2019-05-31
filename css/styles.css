@@ -1,7 +1,12 @@
+/* for computers and large tablets */
+@media screen and (max-width: 768px) {
+  body{
+    background-color: #79afff
+
+}
 .introheader{
   color: darkblue;
   font-family: "Times New Roman", Times, serif;
-  font-weight: bold;
   margin: 30px;
   border: 6px solid #9999bb;
   padding: 4px;
