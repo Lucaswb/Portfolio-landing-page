@@ -1,4 +1,11 @@
-.introheader {
-  font
-  border: 4px #333333;
+.introheader{
+  color: darkblue;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  margin: 30px;
+  border: 6px solid #9999bb;
+  padding: 4px;
+  background-color: #ccccff;
+  text-align: center;
+  width: 75%;
 }
