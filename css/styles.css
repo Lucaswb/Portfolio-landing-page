@@ -10,6 +10,9 @@
   width: 75%;
 }
 
+core.img{
+  float: right;
+}
 
 @media screen and (max-width: 768px) {
   body{
