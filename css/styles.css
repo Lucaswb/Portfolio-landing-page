@@ -59,6 +59,54 @@ li {
 }
 
 
+.sidenav {
+  width: 120px;
+  position: fixed;
+  z-index: 1;
+  top: 20%;
+  left: 30px;
+  background: #eee;
+  overflow-x: hidden;
+  padding: 8px 0;
+  border-radius: 10px;
+  box-shadow:5px 10px 20px grey;
+  border: 2px solid #666666;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  color: #2196FF;
+  display: block;
+}
+.sidenav h4 {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  color: darkblue;
+  display: block;
+
+
+}
+
+.sidenav a:hover {
+  color: #064579;
+}
+
+.main {
+  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
 
 @media screen and (max-width: 576px) {
   #Lucas {
