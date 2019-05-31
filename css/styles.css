@@ -28,7 +28,9 @@ li {
 }
 
 #Lucas {
-  width: 80%;
+  width: 90%;
+  margin-top: 40px;
+  border-image:
 }
 
 @media screen and (max-width: 768px) {
@@ -39,6 +41,6 @@ li {
 
 @media screen and (min-width: 768px) {
   body{
-    background-color: #dddddd
+    background-color: skyblue
   }
 }
