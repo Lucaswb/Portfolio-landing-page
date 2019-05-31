@@ -36,6 +36,9 @@ body{
   text-align:center;
 }
 
+.row em{
+  text-align: center;
+}
 
 h1 {
     font-size: 40px;
@@ -54,6 +57,8 @@ li {
   font-size: 12px;
   font-family: "Times New Roman", Times, serif;
 }
+
+
 
 @media screen and (max-width: 576px) {
   #Lucas {
